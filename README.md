@@ -226,6 +226,7 @@
 
 ## Hooks 🪝
 
+- [claude-sounds](https://github.com/culminationAI/claude-sounds) by [culminationAI](https://github.com/culminationAI) - Your Claude Code shouldn't be silent. Sound effects for all hooks — spells, chimes, clicks. Drop mp3s to customize.
 > Hooks are a powerful API for Claude Code that allows users to activate commands and run scripts at different points in Claude's agentic lifecycle.
 
 ### General
